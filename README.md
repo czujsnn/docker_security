@@ -1,6 +1,9 @@
-# docker_security
+# docker_security WORK IN PROGRESS
 Repo for BAWIM project 
 https://www.agh.edu.pl/uczelnia/system-identyfikacji-wizualnej/szablon-prezentacji/
+
+PREZENTACJA
+https://docs.google.com/presentation/d/1NpSKP3a9LD0olcxBPlbMGAGW8fOFvbmn/edit?usp=sharing&ouid=107243582246751591466&rtpof=true&sd=true
 
 one of exercises will be (probably second one):
 https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore
