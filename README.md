@@ -1,9 +1,22 @@
-# docker_security WORK IN PROGRESS
-Repo for BAWIM project 
-https://www.agh.edu.pl/uczelnia/system-identyfikacji-wizualnej/szablon-prezentacji/
+# DOCKER SECURITY - LABORATORIA
+
+<br/>
 
 PREZENTACJA
 https://docs.google.com/presentation/d/1NpSKP3a9LD0olcxBPlbMGAGW8fOFvbmn/edit?usp=sharing&ouid=107243582246751591466&rtpof=true&sd=true
+
+<br/>
+
+## 0. Przed rozpoczęciem
+
+Przed rozpoczęciem pracy z laboratoriami należy pobrać oraz uruchomić maszynę wirtualną: [Maszyna](https://1drv.ms/u/s!AvkfILhpQ62nhFH_BMR7wTQoOB6_?e=jjwcUx).
+
+Maszynę należy uruchomić w programie VMWare
+
+<br/><br/>
+
+---
+
 
 #ZADANIA
 
