@@ -32,7 +32,10 @@ Wszystkie pliki potrzebne do wykonania zadania znajdują się w folderze **RunC-
 **UWAGA!** Przed każdą próbą uruchomienia obrazu należy wykonać następujące polecenia:<br/>
 ![komendy](https://cdn.discordapp.com/attachments/279340834074263561/932684626512728124/unknown.png)
 
+---
+## Zadanie 3
 
+Zabezpiecz obraz z zadania numer 2, aby uniemożliwić ucieczkę z kontenera.
 
 <br/><br/>
 ---
