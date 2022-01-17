@@ -14,14 +14,19 @@ Maszynę należy uruchomić w programie VMware
 
 ---
 
-## Zadanie 2
+## Zadanie 1
 
-Odzyskaj z wartsw obrazu flagę
+Odzyskaj z warstw obrazu flagę
 <br/>
 [Link do obrazu](https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore)
 
 ---
-## Zadanie 3
+## Zadanie 2
+
+Uzyskaj dostęp na konto root za pomocą podatności CVE 2019-5736
+UWAGA! Przed każdą próbą uruchomienia obrazu nale.zy wykonać następujące polecenia:
+![komendy](https://cdn.discordapp.com/attachments/279340834074263561/932684626512728124/unknown.png)
+
 
 
 <br/><br/>
