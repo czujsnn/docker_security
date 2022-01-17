@@ -16,16 +16,23 @@ Maszynę należy uruchomić w programie VMWare
 
 ---
 
+<br/><br/>
+
 ## Zadanie 2
 
 Odzyskaj z wartsw obrazu flagę
 <br/>
 [Link do obrazu](https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore)
 
+<br/><br/>
 ---
+
+<br/><br/>
 
 ## Zadanie 3
 
+
+<br/><br/>
 ---
 <br/><br/><br/><br/><br/><br/>
 Analyze image from dockerhub - "revert deletion of a file from layer"
