@@ -6,17 +6,13 @@
 
 <br/>
 
-## 0. Przed rozpoczęciem
+## Przed rozpoczęciem
 
 Przed rozpoczęciem pracy z laboratoriami należy pobrać oraz uruchomić maszynę wirtualną: [Maszyna](https://1drv.ms/u/s!AvkfILhpQ62nhFH_BMR7wTQoOB6_?e=jjwcUx).
 
 Maszynę należy uruchomić w programie VMWare
 
-<br/><br/>
-
 ---
-
-<br/><br/>
 
 ## Zadanie 2
 
@@ -24,11 +20,7 @@ Odzyskaj z wartsw obrazu flagę
 <br/>
 [Link do obrazu](https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore)
 
-<br/><br/>
 ---
-
-<br/><br/>
-
 ## Zadanie 3
 
 
