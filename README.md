@@ -16,20 +16,18 @@ Maszynę należy uruchomić w programie VMWare
 
 ---
 
-
-
 ## Zadanie 2
 
 Odzyskaj z wartsw obrazu flagę
-[Link do obrazu:](https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore)
+<br/>
+[Link do obrazu](https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore)
 
+---
 
+## Zadanie 3
 
-
-
-first one:
-https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/
-
+---
+<br/><br/><br/><br/><br/><br/>
 Analyze image from dockerhub - "revert deletion of a file from layer"
 
 Presentation stuff:
