@@ -23,8 +23,8 @@ Odzyskaj z warstw obrazu flagę
 ---
 ## Zadanie 2
 
-Uzyskaj dostęp na konto root za pomocą podatności CVE 2019-5736
-UWAGA! Przed każdą próbą uruchomienia obrazu należy wykonać następujące polecenia:<br/>
+Uzyskaj dostęp na konto root za pomocą podatności CVE 2019-5736 <br/><br/>
+**UWAGA!** Przed każdą próbą uruchomienia obrazu należy wykonać następujące polecenia:<br/>
 ![komendy](https://cdn.discordapp.com/attachments/279340834074263561/932684626512728124/unknown.png)
 
 
