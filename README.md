@@ -12,12 +12,11 @@ Zadanie 1
 
 ```
 
+
+#####Zadanie 2
 ```
-Zadanie 2
-
 Odzyskaj z wartsw obrazu flagę
-https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore
-
+[Link do obrazu:](https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0fbfe693b19ac0f8454502351dc792dabbee47bc9ab7420b2?context=explore)
 ```
 
 
