@@ -8,7 +8,7 @@
 
 Przed rozpoczęciem pracy z laboratoriami należy pobrać oraz uruchomić maszynę wirtualną: [Maszyna](https://1drv.ms/u/s!AvkfILhpQ62nhFH_BMR7wTQoOB6_?e=jjwcUx).
 
-Maszynę należy uruchomić w programie VMware
+Maszynę należy uruchomić w programie [VMware](https://www.vmware.com/pl/products/workstation-player/workstation-player-evaluation.html)
 
 ---
 
