@@ -1,4 +1,5 @@
 # docker_security
+wlaczyc to za 1 razem zeby dostac internet: sudo dhclient -v -4
 Repo for BAWIM project 
 https://www.agh.edu.pl/uczelnia/system-identyfikacji-wizualnej/szablon-prezentacji/
 
@@ -7,6 +8,7 @@ https://hub.docker.com/layers/qxxxb/layers/latest/images/sha256-a89678536727abc0
 
 first one:
 https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/
+dodac samemu do warstwy "złą bibloteke"
 
 Analyze image from dockerhub - "revert deletion of a file from layer"
 
@@ -22,3 +24,4 @@ narzedzia skanowania - snyk/ to gówno z github actions - ja wiem ocb
 4. Best practices - albo to włączyć do security bo jeden pies, 
 nie tworzenie dodatkowych userów - te principale,
 przelaczanie sie na zwyklego usera na koncu zeby nie byc rootem bo execu terminala na kontenerze, nie towrzenie root userów, omijanie uzywania tagu latest
+
