@@ -23,7 +23,7 @@ Odzyskaj z warstw obrazu flagę
 
 Uzyskaj dostęp na konto root za pomocą podatności CVE 2019-5736 <br/>
 Wszystkie pliki potrzebne do wykonania zadania znajdują się w folderze **RunC-CVE-2019-5736** na pulpicie pobranej maszyny wirtualnej <br/>
-
+(Port dla netcat to 2345)
 **W razie problemów prosimy skorzystać z pliku README.md**
 ```
 ~/Desktop/RunC-CVE-2019-5736/README.md
