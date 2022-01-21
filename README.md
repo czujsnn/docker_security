@@ -58,7 +58,7 @@ c) Wynik skanu będzie dostępny w pliku wynik.txt, otwórz go, przenalizuj i zw
 
 Następnie stwórz kolejny Dockerfile:
 ```
-From ubuntu:latest
+FROM ubuntu:latest
 ```
 
 i wykonaj kroki a) b) c) ponownie, wnioski nasuwają się same :)
